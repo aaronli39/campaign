@@ -947,6 +947,10 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 }
 
 .text-limited {
-    max-height: 20rem;
+    max-height: 300px;
     overflow: scroll;
+}
+
+.foreign {
+
 }
