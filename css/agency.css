@@ -963,7 +963,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   
   }
   .bgimg-1 {
-    background-image: url("https://www.4kpapers.com/assets/2016/11/07/relaxing-waves-wallpaper.jpg");
+    background-image: url("../img/bgimg.jpg");
     min-height: 50rem;   
     height: 100%;
   }
